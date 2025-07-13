@@ -4,6 +4,6 @@ Note: I promise its not a virus I just thought it sounded cool..
 
   Left click - Impulse Force all objects towards cursor
   Q - Spawns a circle
-  E - Spawns a bxo
+  E - Spawns a box
 
 ![PhysicsEngineExample](https://github.com/user-attachments/assets/49e1a2bb-3050-4682-89f2-7894436c92a5)
